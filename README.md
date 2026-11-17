@@ -1,6 +1,7 @@
 # Planner Tugas Kuliah — Tugas Rutin 7
 
 **Nama:** Christian Nicholas Sinaga
+
 **NIM:** 4243250005  
 **Kelas:** PSIK 24C  
 
