@@ -1,7 +1,8 @@
 # Planner Tugas Kuliah — Tugas Rutin 7
 
+**Nama:** Christian Nicholas Sinaga
 **NIM:** 4243250005  
-**Nama:** isi nama lengkap
+**Kelas:** PSIK 24C  
 
 Aplikasi Flutter untuk mencatat tugas kuliah, mata kuliah, dan batas pengumpulan. Daftar, form, dan statistik memakai state tugas bersama; filter daftar tetap menjadi state lokal halaman.
 
@@ -16,11 +17,25 @@ Aplikasi Flutter untuk mencatat tugas kuliah, mata kuliah, dan batas pengumpulan
 
 ## Tangkapan layar
 
-Simpan tangkapan layar dari ketiga halaman berikut di folder `screenshots/`, lalu tambahkan gambar ke bagian ini:
+### Validasi
 
-- `daftar-tugas.png` — halaman daftar dan filter.
-- `form-tugas.png` — halaman tambah tugas.
-- `statistik.png` — halaman statistik.
+`flutter test` berhasil dan `flutter analyze` tidak menemukan masalah.
+
+![Hasil flutter test dan flutter analyze](screenshots/validasi-test-analyze.png)
+
+### Daftar tugas
+
+![Halaman daftar tugas dengan filter dan tugas contoh](screenshots/daftar-tugas.png)
+
+![Daftar setelah tugas baru ditambahkan](screenshots/daftar-tugas-setelah-tambah.png)
+
+### Form tambah tugas
+
+![Form untuk memasukkan tugas, mata kuliah, tanggal, dan waktu](screenshots/form-tugas.png)
+
+### Statistik tugas
+
+![Ringkasan jumlah tugas dan progres penyelesaian](screenshots/statistik.png)
 
 ## Diagram state dan lifecycle
 
