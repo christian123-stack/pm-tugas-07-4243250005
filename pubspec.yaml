@@ -1,5 +1,5 @@
 name: pm_tugas_07_4243250005
-description: "A new Flutter project."
+description: "Planner tugas kuliah dengan state management Provider."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
